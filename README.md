@@ -6,6 +6,7 @@ Test releases of One-Step-GWAS for Windows and macOS, with demo datasets.
 This test release includes several updates for functionality validation:
 
 - Added **Numeric** genotype format support for both single-file and multi-file workflows.
+- Updated the display name of the BLINK genotype format.
 - Improved input data help indicators and format guidance.
 - Improved Manhattan plot visualization, including point size and single-/multi-color controls.
 - Fixed point color controls for Manhattan and Q-Q plots.
